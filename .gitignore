@@ -1,5 +1,7 @@
 # Ignore Extra files
 extra/
+Intial Idea - Virtual wardrobe assistant.docx
+app features.xlsx
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/
